@@ -1,0 +1,170 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2811859597",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Convert the following hexadecimal number to denary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "36 = <<<54>>>",
+   "tokens": {
+    "blank": [
+     "54"
+    ],
+    "text": [
+     "36 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2824020902",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Convert the following hexadecimal number to denary**",
+   "points": "1",
+   "showValues": false,
+   "text": "CD = <<<205>>>",
+   "tokens": {
+    "blank": [
+     "205"
+    ],
+    "text": [
+     "CD = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2402714129",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**Convert the following denary number to hexadecimal.**",
+   "points": "1",
+   "showValues": false,
+   "text": "165 = <<<B5>>>",
+   "tokens": {
+    "blank": [
+     "B5"
+    ],
+    "text": [
+     "165 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4280309630",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**Convert the following denary number to hexadecimal.**",
+   "points": "1",
+   "showValues": false,
+   "text": "250 = <<<BB>>>",
+   "tokens": {
+    "blank": [
+     "BB"
+    ],
+    "text": [
+     "250 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2771337189",
+  "source": {
+   "name": "Question5",
+   "showName": false,
+   "instructions": "**Convert the following hexadecimal number to binary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "E7 = <<<11100111>>>",
+   "tokens": {
+    "blank": [
+     "11100111"
+    ],
+    "text": [
+     "E7 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3429916031",
+  "source": {
+   "name": "Question6",
+   "showName": false,
+   "instructions": "**Convert the following hexadecimal number to binary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "9C = <<<10011100>>>",
+   "tokens": {
+    "blank": [
+     "10011100"
+    ],
+    "text": [
+     "9C = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2059154830",
+  "source": {
+   "name": "Question7",
+   "showName": false,
+   "instructions": "**Convert the following binary number to hexadecimal.**",
+   "points": "1",
+   "showValues": false,
+   "text": "11110111 = <<<F7>>>",
+   "tokens": {
+    "blank": [
+     "F7"
+    ],
+    "text": [
+     "11110111 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-135297370",
+  "source": {
+   "name": "Question8",
+   "showName": false,
+   "instructions": "**Convert the following binary number to hexadecimal.**",
+   "points": "1",
+   "showValues": false,
+   "text": "01111010 = <<<79>>>",
+   "tokens": {
+    "blank": [
+     "79"
+    ],
+    "text": [
+     "01111010 = ",
+     0
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "49720932-b7fc-c36b-4ea5-66831e57da9c",
+   "title": "Hexadecimal",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hexadecimal-4972.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0c3a8843-f80f-d7c3-6c5f-790f6e9af0b4",
+   "title": "What is hexadecimal?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-hexadecimal--0c3a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "929d52fc-5377-77c8-7144-aab593deed9b",
+   "title": "Why is hexadecimal used?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Why-is-hexadecimal-used--929d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "08a2a00b-c8c7-10ab-a497-e7907b02f91b",
+   "title": "Converting between hexadecimal and denary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Converting-between-hexadecimal-and-denary-08a2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4fa9ece5-47a7-9ae2-b56f-e985665186f4",
+   "title": "Converting between hexadecimal and binary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Converting-between-hexadecimal-and-binary-4fa9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d1ca6ff8-3acd-086c-34db-1310e11a7717",
+   "title": "Check digits",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-digits-d1ca.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5a20d57a-5c8d-adf8-ee4c-e4d50319fb09",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-5a20.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5ccfd30e-b9ca-6fa1-bae2-971b75ec66c3",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-5ccf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
