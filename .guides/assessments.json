@@ -50,10 +50,10 @@
    "instructions": "**Convert the following denary number to hexadecimal.**",
    "points": "1",
    "showValues": false,
-   "text": "165 = <<<B5>>>",
+   "text": "165 = <<<A5>>>",
    "tokens": {
     "blank": [
-     "B5"
+     "A5"
     ],
     "text": [
      "165 = ",
@@ -71,10 +71,10 @@
    "instructions": "**Convert the following denary number to hexadecimal.**",
    "points": "1",
    "showValues": false,
-   "text": "250 = <<<BB>>>",
+   "text": "250 = <<<FA>>>",
    "tokens": {
     "blank": [
-     "BB"
+     "FA"
     ],
     "text": [
      "250 = ",

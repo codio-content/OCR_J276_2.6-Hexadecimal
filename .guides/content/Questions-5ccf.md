@@ -12,12 +12,12 @@ CD = **205**
 {Check It!|assessment}(fill-in-the-blanks-2402714129)
 |||guidance
 # Solution
-165 = **B5**
+165 = **A5**
 |||
 {Check It!|assessment}(fill-in-the-blanks-4280309630)
 |||guidance
 # Solution
-250 = **BB**
+250 = **FA**
 |||
 {Check It!|assessment}(fill-in-the-blanks-2771337189)
 |||guidance
@@ -37,5 +37,5 @@ E7 = **11100111**
 {Check It!|assessment}(fill-in-the-blanks-135297370)
 |||guidance
 # Solution
-01111010 = **79**
+01111010 = **7A**
 |||
