@@ -155,10 +155,10 @@
    "instructions": "**Convert the following binary number to hexadecimal.**",
    "points": "1",
    "showValues": false,
-   "text": "01111010 = <<<79>>>",
+   "text": "01111010 = <<<7A>>>",
    "tokens": {
     "blank": [
-     "79"
+     "7A"
     ],
     "text": [
      "01111010 = ",
